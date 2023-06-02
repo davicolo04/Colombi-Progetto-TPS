@@ -1,0 +1,20 @@
+/* @import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+* {
+    font-family: 'Raleway', sans-serif;
+
+    .dark {
+        --color-primary: #1f2937;
+        --color-secondary: #4b5563;
+        --color-text-primary: #f9fafb;
+        --color-text-secondary: #d1d5db;
+        --color-bg-primary: #111827;
+        --color-bg-secondary: #1e293b;
+    }
+}
+
+a {
+    text-decoration: none;
+} */

@@ -1,0 +1,1 @@
+LOAD DATA INFILE '\coin_data.csv' INTO TABLE `coin_data` FIELDS TERMINATED BY ',' LINES TERMINATED BY '\n';
